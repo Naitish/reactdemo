@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Naitish/reactdemo/static/css/main.ae7bdb54.css",
+    "main.js": "/Naitish/reactdemo/static/js/main.0d284f52.js",
+    "index.html": "/Naitish/reactdemo/index.html",
+    "main.ae7bdb54.css.map": "/Naitish/reactdemo/static/css/main.ae7bdb54.css.map",
+    "main.0d284f52.js.map": "/Naitish/reactdemo/static/js/main.0d284f52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7bdb54.css",
+    "static/js/main.0d284f52.js"
+  ]
+}
